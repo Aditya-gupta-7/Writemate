@@ -1,0 +1,13 @@
+.Login_Page{
+    background-color: black;
+}
+.bgbg{
+    background-image: url("C:/Users/Abhishek Goyal/Desktop/Abhishek/React/iNotebook/public/bg.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+.transparent{
+    background-color: transparent;
+}
+/* C:\Users\Abhishek Goyal\Desktop\Abhishek\React\iNotebook\public\bg.jpg */
